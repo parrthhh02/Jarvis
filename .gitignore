@@ -1,0 +1,25 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Memory data
+memory/conversations/*.json
+memory/user_profile.json
+memory/goals.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
